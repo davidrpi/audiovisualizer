@@ -1,0 +1,6 @@
+[submodule "audiovisualizer"]
+	path = audiovisualizer
+	url = https://github.com/davidrpi/audiovisualizer
+[submodule "daviddominguez"]
+	path = daviddominguez
+	url = https://github.com/davidrpi/audiovisualizer
