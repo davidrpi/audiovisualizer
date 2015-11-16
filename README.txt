@@ -1,4 +1,4 @@
-David Dominguez - Art, Code, & Interactivity
+David Dominguez
 domind4@rpi.edu
 
 
